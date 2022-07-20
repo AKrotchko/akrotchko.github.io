@@ -6,9 +6,9 @@ This page will be a simplified way of displaying some of my accolades and hobbie
 
 In the future, I will include a list of contents for each page.
 
- - [Home](/)
- - [About](/about/)
- - [Projects](/projects/)
+ - [Home](/) - The home page.
+ - [About](/about/) - About me.
+ - [Projects](/projects/) - Projects I have worked on, or are currently maintaining.
 
 ### Contact
 
