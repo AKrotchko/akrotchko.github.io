@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Andy's Github Page
 
 You can use the [editor on GitHub](https://github.com/AKrotchko/akrotchko.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
