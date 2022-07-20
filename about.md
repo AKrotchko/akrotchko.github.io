@@ -1,5 +1,5 @@
 ---
-permalink: /about.html
+permalink: /about/
 ---
 
 ## Andrew Krotchko
