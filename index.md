@@ -1,16 +1,11 @@
-## Andy's Github Page
+---
+layout: home
+title: Home
+landing-title: 'Hi, my name is Andy'
+description: null
+image: null
+author: null
+show_tile: false
+---
 
-Welcome to my website! There's a few things you can check out. Here's a picture of my cat.
-
-
-### Contents
-
- - [Home](/) - The home page.
- - [About](/about/) - About me.
- - [Published Work](/published/) - Take a look at stuff I made! Or helped make.
-
-[//]: # ( - [Projects]&#40;/projects/&#41; - Projects I have worked on, or are currently maintaining.)
-
-### Contact
-
-You can find me on my [contact page](/contact/), or check out my [github](https://github.com/AKrotchko)
+Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
