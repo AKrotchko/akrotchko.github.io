@@ -1,44 +1,32 @@
-# site settings
-title: Andy
-subtitle: Just another dev
-email: akrotchko@gmail.com
-description: Andy's .
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address:
-city:
-state: MD
-zip_code:
-country: United States of America
-phone: (240) 593-8971
+title: "Andrew Krotchko"
+author: "Blog Author"
+description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+# Layout
 
-# social settings (key must match name of font awesome icon)
-# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
-# Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
-socials:
-  GitHub: https://github.com/akrotchko
-  GitLab:
-  Google-Plus:
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-krotchko-65a031a8/
-  Twitter:
-  Facebook:
-  Slack:
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
 
-# build settings
-markdown: kramdown
+# Menu
 
-sass:
-  style: compressed
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
+  - {file: "README.md"}
 
-exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:AKrotchko@ugmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/akrotchko/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/andrew-krotchko-65a031a8/"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
