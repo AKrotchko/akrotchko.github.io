@@ -1,15 +1,16 @@
 ## Andy's Github Page
 
-This page will be a simplified way of displaying some of my accolades and hobbies. Will experiment more as I understand the pages better.
+Welcome to my website! There's a few things you can check out. Here's a picture of my cat.
+
 
 ### Contents
 
-In the future, I will include a list of contents for each page.
-
  - [Home](/) - The home page.
  - [About](/about/) - About me.
- - [Projects](/projects/) - Projects I have worked on, or are currently maintaining.
+ - [Published Work](/published/) - Take a look at stuff I made! Or helped make.
+
+[//]: # ( - [Projects]&#40;/projects/&#41; - Projects I have worked on, or are currently maintaining.)
 
 ### Contact
 
-Want to contact me? Well, too bad. Unfortunately, I haven't finished my [contact page](/contact/) just yet.
+You can find me on my [contact page](/contact/), or check out my [github](https://github.com/AKrotchko)
