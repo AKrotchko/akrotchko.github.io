@@ -1,15 +1,11 @@
-## Andy's Github Page
+---
+layout: home
+title: Home
+landing-title: 'Hi, my name is Andy'
+description: null
+image: null
+author: null
+show_tile: false
+---
 
-This page will be a simplified way of displaying some of my accolades and hobbies. Will experiment more as I understand the pages better.
-
-### Contents
-
-In the future, I will include a list of contents for each page.
-
- - [Home](/) - The home page.
- - [About](/about/) - About me.
- - [Projects](/projects/) - Projects I have worked on, or are currently maintaining.
-
-### Contact
-
-Want to contact me? Well, too bad. Unfortunately, I haven't finished my [contact page](/contact/) just yet.
+Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
