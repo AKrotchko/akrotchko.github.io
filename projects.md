@@ -11,7 +11,7 @@ I have been a developer full-time for about 5 years now, so I have at least a co
   <img width="150" src="https://www.amtrak.com/content/dam/projects/dotcom/english/public/images/logos/amtrak-logo__white.svg">
 </p>
 
-[Amtrak.com](https://www.amtrak.com/home.html) I was part of the major devleopment effort to completely refresh the Amtrak.com experience. I primarily focused on front-end development with Angular.
+[Amtrak.com](https://www.amtrak.com/home.html) I was part of the major development effort to completely refresh the Amtrak.com experience. I primarily focused on front-end development with Angular.
 
 ---
 
@@ -20,7 +20,7 @@ I have been a developer full-time for about 5 years now, so I have at least a co
   <img width="150" src="https://alertaware.com/wp-content/uploads/2022/01/AlertAware-Logo-Offical.png">
 </p>
 
-[AlertAware](https://alertaware.com/) I am currently developing the front-end experience for AlertAware. You can find the mobile client on the [Play Store](https://play.google.com/store/apps/details?id=com.alertaware.mobile&hl=en_US&gl=US), or the iOS [App Store](https://apps.apple.com/us/app/alertaware-mobile/id1635823148). Also available on the web (how neat is that) on our [Web Portal](https://portal.alertaware.com/). You can even use your own custom internal domain
+[AlertAware](https://alertaware.com/) I am currently developing the front-end experience for AlertAware. You can find the mobile client on the [Play Store](https://play.google.com/store/apps/details?id=com.alertaware.mobile&hl=en_US&gl=US), or the iOS [App Store](https://apps.apple.com/us/app/alertaware-mobile/id1635823148). Available on the web (how neat is that) on our [Web Portal](https://portal.alertaware.com/). You can even use your own custom internal domain
  
 ---
 
