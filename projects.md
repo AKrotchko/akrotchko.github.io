@@ -4,8 +4,6 @@ permalink: "/projects/"
 layout: page
 ---
 
-## Published Works
-
 I have been a developer full-time for about 5 years now, so I have at least a couple different projects that are published you can check out.
 
 - 2020 - [Amtrak.com](https://www.amtrak.com/home.html) I was part of the major devleopment effort to completely refresh the Amtrak.com experience. I primarily focused on front-end development with Angular.

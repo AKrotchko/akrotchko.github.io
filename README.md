@@ -26,6 +26,3 @@ I am a full-time front-end developer with a background creating mobile and web a
 - [Java](https://www.java.com/)
 
 I am always looking to learn new technologies and frameworks, and I am always looking to improve my skills.
-
-
-[Home](/)
