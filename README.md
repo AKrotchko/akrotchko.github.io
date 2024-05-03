@@ -7,7 +7,7 @@ layout: page
 ### Stuff I Like/Do
 
 <div style="text-align: left">
-  <img height=50% src="https://cdn.discordapp.com/attachments/592903627819974658/1235730600455966780/PXL_20240418_162736600.jpg?ex=66356f4d&is=66341dcd&hm=bf08113aca1b8910f3dee546f5b53d1278cd6259b7af26080379a528f6046cc3&">
+  <img height="50%" src="https://cdn.discordapp.com/attachments/592903627819974658/1235730600455966780/PXL_20240418_162736600.jpg?ex=66356f4d&is=66341dcd&hm=bf08113aca1b8910f3dee546f5b53d1278cd6259b7af26080379a528f6046cc3&">
 </div>
 
 I'm a big cat person. Here's my best buddy Cyril!
