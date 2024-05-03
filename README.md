@@ -4,9 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-## Andrew Krotchko
-/// Image of me here
-
 ### Stuff I Like/Do
 
 - I love to work on and appreciate cars. My 2017 GTI is pretty sweet.
