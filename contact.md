@@ -32,5 +32,4 @@ I mostly make fun projects here, but feel free to poke around my repositories. R
 
 <div style="text-align: center;">
   <img width="300" src="https://cdn.discordapp.com/attachments/592903627819974658/1235769432220110889/20210705_1207522.jpg?ex=66359378&is=663441f8&hm=fdb47167f9fbf774ef57f60358904ba08107d788ce678b730be8b43b219b81b7&">
-
 </div>

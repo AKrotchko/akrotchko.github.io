@@ -29,6 +29,7 @@ I am always looking to learn new technologies and frameworks, and I am always lo
 
 <div style="text-align: center;">
   <span style="font-size: 26px;">I'm a big cat person. Here's my best buddy Cyril!</span>
+  <br>
   <img width="25%" src="https://cdn.discordapp.com/attachments/592903627819974658/1235730600455966780/PXL_20240418_162736600.jpg?ex=66356f4d&is=66341dcd&hm=bf08113aca1b8910f3dee546f5b53d1278cd6259b7af26080379a528f6046cc3&">
 </div>
 
